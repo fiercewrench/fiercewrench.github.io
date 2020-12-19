@@ -23,12 +23,12 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: false
-    forks: false
+    archived: true
+    forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -47,9 +47,9 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale
 
   - name: Web design
 
