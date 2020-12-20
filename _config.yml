@@ -23,10 +23,11 @@ projects:
   #   - stars
   limit: 6
   exclude:
-    archived: true
+    # archived: true
     forks: true
-    projects:
+    projects: MonoGamess
     # - repo-name
+    
 
 social_media:
   # behance: your_username
