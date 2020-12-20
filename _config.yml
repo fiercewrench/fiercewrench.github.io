@@ -35,7 +35,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-    linkedin: renfei_wang
+    linkedin: renfei-wang-552488173
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,8 +51,10 @@ topics:
     web_url: https://github.com/topics/java
     image_url: https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale
 
-  - name: Web design
+  - name: Full Stack Development
+    web_url: https://github.com/topics/full-stack
+    image_url: https://www.designveloper.com/wp-content/uploads/2019/08/D_e9EdRWsAQmBe2.jpg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Data Management
+    web_url: https://github.com/topics/data-management
+    image_url: https://tdwi.org/-/media/TDWI/TDWI/BITW/datamgt2.jpg
